@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List component Testing the List output 1`] = `
+<section
+  className="List"
+>
+  <header
+    className="List-cards"
+  >
+    <h2>
+      Hello
+    </h2>
+  </header>
+  <div
+    className="List-cards"
+  >
+    <button
+      className="List-add-button"
+      type="button"
+    >
+       + Add a Card
+    </button>
+  </div>
+</section>
+`;
